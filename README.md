@@ -9,7 +9,7 @@ Paste a link, pick MP4 or MP3, hit enter. That's it.
 - Python 3.8+
 - yt-dlp (`pip install yt-dlp`)
 - ffmpeg installed and on your PATH (needed for MP3 extraction and merging MP4 video/audio)
-- tkinter — usually comes with Python, on Linux you might need `sudo apt install python3-tk`
+- tkinter - usually comes with Python, on Linux you might need `sudo apt install python3-tk`
 
 ## Usage
 
